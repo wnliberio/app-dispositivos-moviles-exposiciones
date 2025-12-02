@@ -1,5 +1,4 @@
 ---
-
 ## Requisitos para local
 
 - Python >= 3.10.0
@@ -8,10 +7,9 @@
 - streamlit
 - uvicorn
 
-Opcional:
+- Opcional:
 - Docker (si quieres levantar MongoDB en contenedor)
 - Virtualenv o venv para entorno aislado
-
 ---
 
 ## Instalación
